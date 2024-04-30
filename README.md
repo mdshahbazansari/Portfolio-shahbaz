@@ -16,8 +16,8 @@
 portfolio Live Link: https://mdshahbazansari.github.io/Portfolio-shahbaz/
 
 ![preview img](/preview.png)
-![preview img](./assets/img/pages/aboutPage.png)
-![preview img](./assets/img/pages/skillPage.png)
-![preview img](./assets/img/pages/workPage.png)
-![preview img](./assets/img/pages/contactPage.png)
+![preview img](./assets/img/aboutPage.png)
+![preview img](./assets/img/skillPage.png)
+![preview img](./assets/img/workPage.png)
+![preview img](./assets/img/contactPage.png)
 
