@@ -1,6 +1,4 @@
 
------This is My Task Week-2 For @Campus_Valley-----
-
 # Portfolio Responsive Complete
 ## [Watch it on youtube](https://www.youtube.com/channel/UCdPcN2ibTMK5adKU3baLcOA)
 ### Portfolio Responsive Complete
